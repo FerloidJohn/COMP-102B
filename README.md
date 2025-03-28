@@ -3,7 +3,7 @@
 <head>
     <center>
         <tittle style="font-size:20px;">
-            <i style="color:gray;">FERLOIDJOHN PERSONAL WEBSITE</i>
+           
         </tittle>
     </center>
 </head>
