@@ -17,7 +17,7 @@
                     border-radius: 50%;
                 }
             </style>
-            <td><img src="https://scontent.fceb1-1.fna.fbcdn.net/v/t39.30808-6/485770935_2484380651903952_2213325309702713808_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFpkIqwi5LDumgWmpdKfVKZYI8MUECYmOdgjwxQQJiY59--gnRmvlt-O29Yv3doBNo16PPkKx-PQBnE1CVL1-7U&_nc_ohc=ZwjLu9pMjVUQ7kNvgF8KeyG&_nc_oc=Adm8OhcumNAS9o1yuP4VohoR7etQtamXZGMk9TdzrXskWlN7Zr3Cl8AGKzZsqSF4Lrk&_nc_zt=23&_nc_ht=scontent.fceb1-1.fna&_nc_gid=8cQCt6Ojqz2kUUEeFJR_fw&oh=00_AYFAF73TnFjpHRkL13WsNPcnKooOMKs2GqcK6iG3AOtbIw&oe=67E2E756"
+            <td><img src="https://scontent.fceb1-1.fna.fbcdn.net/v/t39.30808-6/485770935_2484380651903952_2213325309702713808_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFpkIqwi5LDumgWmpdKfVKZYI8MUECYmOdgjwxQQJiY59--gnRmvlt-O29Yv3doBNo16PPkKx-PQBnE1CVL1-7U&_nc_ohc=KH4lMSjW1vwQ7kNvgEzzqGM&_nc_oc=AdlAuEkUHo62H-x4eCdwkcVHe42Tjj25-aj-bxTiYYbF4GtPV9zQMx6lmZv-P6W4O98&_nc_zt=23&_nc_ht=scontent.fceb1-1.fna&_nc_gid=WC0cKDdroY9NB4HotIIwTQ&oh=00_AYFN6maOCj5V9kxMGTeS9WZhM2zaNzo21aj00JjLpQ6p0g&oe=67EBE996"
                     alt="Avatar" style="width:200px"></td>
             <td>
                 <h1>FERLOID JOHN</h1>
