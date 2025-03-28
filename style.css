@@ -1,0 +1,28 @@
+
+body {
+ background-color: rgb(235, 21, 21) ;
+}
+  
+h1 {
+color: #666cbf8f;
+}
+ 
+h3 {
+color: aqua;
+} 
+ 
+hr {
+    border-style: hidden;
+    border-top-style:dashed;
+    border-color: blueviolet;
+    border-width: 5px;
+    width: 5%;
+}
+
+
+
+
+
+
+
+
