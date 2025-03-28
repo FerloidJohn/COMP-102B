@@ -40,8 +40,8 @@
    </thead>
    <tbody>
      <tr>
-       <td>2017-2018</td>
-       <td>Sagrada Elementary School</td>
+       <td>2011-2016</td>
+       <td>Okiot Elementary School</td>
      </tr>
      <tr>
        <td>2021-2022</td>
