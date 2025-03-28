@@ -3,7 +3,7 @@
 <head>
     <center>
         <tittle style="font-size:20px;">
-           
+            <i style="color:gray;">FERLOIDJOHN PERSONAL WEBSITE</i>
         </tittle>
     </center>
 </head>
@@ -87,7 +87,3 @@
       <label>do you want to sign in up to email list?</label> 
       <input type="checkbox" name="" value="">
       <input type="submit" name="">
-      </form>
-
-</body>
-</html>
